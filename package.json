@@ -1,0 +1,23 @@
+{
+  "name": "source-map-support-systemjs",
+  "version": "1.0.0",
+  "description": "Integrate source-map-support package with systemjs loader",
+  "main": "src/source-map-support-systemjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancras/source-map-support-systemjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dancras/source-map-support-systemjs/issues"
+  },
+  "homepage": "https://github.com/dancras/source-map-support-systemjs#readme",
+  "dependencies": {
+    "source-map-support": "^0.4.0",
+    "systemjs": "^0.19.29"
+  }
+}
